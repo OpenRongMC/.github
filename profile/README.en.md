@@ -4,13 +4,9 @@
 
 OpenRongMC maintains Minecraft Java mods, transport and city-building ports, and client tools used by the RongMC construction server. Current releases target **Minecraft 26.3, Fabric and Java 25**.
 
-## Getting started
-
-1. Find a project below and open its README for downloads, dependencies and installation sides.
-2. Match the dependency release family for MTR and city-building addons. Use matching builds for mods that register world blocks, and follow the individual instructions for UI and lyric tools.
-3. Upgrade a copy of an older world first and check tracks, lifts, roads and player data before switching the live save. Releases and prereleases are available from each repository.
-
 ## Rail and public transit
+
+Build routes and timetables, then fit out stations with signs, platform doors and lifts.
 
 - [Minecraft Transit Railway (MTR)](https://github.com/OpenRongMC/Minecraft-Transit-Railway/blob/main/README.en.md) · [Releases](https://github.com/OpenRongMC/Minecraft-Transit-Railway/releases)
 - [Joban Client Mod (JCM)](https://github.com/OpenRongMC/Joban-Client-Mod/blob/main/README.en.md) · [Releases](https://github.com/OpenRongMC/Joban-Client-Mod/releases)
@@ -22,6 +18,8 @@ OpenRongMC maintains Minecraft Java mods, transport and city-building ports, and
 
 ## City building and terrain
 
+Build roads, Chinese-style schools and neighborhoods, or start a new map with river valleys and waterfalls.
+
 - [Mishang Urban Construction](https://github.com/OpenRongMC/Mishang-Urban-Construction/blob/main/README-en.md) · [Releases](https://github.com/OpenRongMC/Mishang-Urban-Construction/releases)
 - [OcelotSign](https://github.com/OpenRongMC/OcelotSign/blob/main/README_EN.md) · [Releases](https://github.com/OpenRongMC/OcelotSign/releases)
 - [Chinese-style School as well as Home (CSSAHUV)](https://github.com/OpenRongMC/CSSAHUV/blob/main/README.en.md) · [Releases](https://github.com/OpenRongMC/CSSAHUV/releases)
@@ -31,10 +29,14 @@ OpenRongMC maintains Minecraft Java mods, transport and city-building ports, and
 
 ## Machinery and automation
 
+Build factories with mechanical power, moving contraptions and trains.
+
 - [Create Fly · RongMC Distribution](https://github.com/OpenRongMC/Create-Fly/blob/main/README.en.md) · [Releases](https://github.com/OpenRongMC/Create-Fly/releases)
 - [Create Fly Ponder Fix](https://github.com/OpenRongMC/Create-Fly-Ponder-Fix/blob/main/README.en.md) · [Releases](https://github.com/OpenRongMC/Create-Fly-Ponder-Fix/releases)
 
 ## Client experience
+
+Introduce a world with live camera tours and choose the transport interface and client settings you prefer.
 
 - [RongMC Client and Live Tours](https://github.com/OpenRongMC/RongMC-Client/blob/main/README.en.md) · [Releases](https://github.com/OpenRongMC/RongMC-Client/releases)
 - [RongMC Transport UI](https://github.com/OpenRongMC/RongMC-Transport-UI/blob/main/README.en.md) · [Releases](https://github.com/OpenRongMC/RongMC-Transport-UI/releases)
@@ -42,6 +44,8 @@ OpenRongMC maintains Minecraft Java mods, transport and city-building ports, and
 - [RongMC Welcome (Legacy)](https://github.com/OpenRongMC/RongMC-Welcome/blob/main/README.en.md) · [Releases](https://github.com/OpenRongMC/RongMC-Welcome/releases)
 
 ## Development and testing
+
+Creative filters, platform mappings and isolated testing tools shared by the transport addons.
 
 - [Filters API](https://github.com/OpenRongMC/Filters-API/blob/main/README.en.md) · [Releases](https://github.com/OpenRongMC/Filters-API/releases)
 - [MTR Platform Mappings and Compatibility](https://github.com/OpenRongMC/Minecraft-Mappings/blob/main/README.en.md) · [Releases](https://github.com/OpenRongMC/Minecraft-Mappings/releases)

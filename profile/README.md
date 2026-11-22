@@ -4,13 +4,9 @@
 
 OpenRongMC 维护 RongMC 建筑服使用的 Minecraft Java 模组、交通与城建移植，以及配套客户端工具。当前发行以 **Minecraft 26.3、Fabric 和 Java 25** 为目标。
 
-## 从这里开始
-
-1. 在下方找到所需模组，打开仓库 README 查看下载、前置依赖和安装端。
-2. 给 MTR 扩展或城建联动选择同系列的前置。注册世界方块的模组应在两端匹配，界面和歌词类模组按各自文档安装。
-3. 用副本升级旧世界，先检查轨道、电梯、道路和玩家数据，再切换正式存档。示例版本和预发布文件位于各仓库的 Releases。
-
 ## 铁路与公共交通
+
+从线路、车辆和时刻表，到车站标识、屏蔽门与电梯。
 
 - [我的世界铁路（MTR）](https://github.com/OpenRongMC/Minecraft-Transit-Railway/blob/main/README.md) · [下载](https://github.com/OpenRongMC/Minecraft-Transit-Railway/releases)
 - [常磐客户端模组（JCM）](https://github.com/OpenRongMC/Joban-Client-Mod/blob/main/README.md) · [下载](https://github.com/OpenRongMC/Joban-Client-Mod/releases)
@@ -22,6 +18,8 @@ OpenRongMC 维护 RongMC 建筑服使用的 Minecraft Java 模组、交通与城
 
 ## 城市建设与地形
 
+搭建道路、中式校园和街区，也可以从河谷与瀑布开始规划新地图。
+
 - [迷上城建](https://github.com/OpenRongMC/Mishang-Urban-Construction/blob/main/README.md) · [下载](https://github.com/OpenRongMC/Mishang-Urban-Construction/releases)
 - [豹猫指示牌（OcelotSign）](https://github.com/OpenRongMC/OcelotSign/blob/main/README.md) · [下载](https://github.com/OpenRongMC/OcelotSign/releases)
 - [中式学校及家庭（CSSAHUV）](https://github.com/OpenRongMC/CSSAHUV/blob/main/README.md) · [下载](https://github.com/OpenRongMC/CSSAHUV/releases)
@@ -31,10 +29,14 @@ OpenRongMC 维护 RongMC 建筑服使用的 Minecraft Java 模组、交通与城
 
 ## 机械与自动化
 
+用传动、移动结构和列车搭建工厂。
+
 - [Create Fly · RongMC 构建](https://github.com/OpenRongMC/Create-Fly/blob/main/README.md) · [下载](https://github.com/OpenRongMC/Create-Fly/releases)
 - [Create Fly Ponder 修复](https://github.com/OpenRongMC/Create-Fly-Ponder-Fix/blob/main/README.md) · [下载](https://github.com/OpenRongMC/Create-Fly-Ponder-Fix/releases)
 
 ## 客户端体验
+
+用实时运镜介绍世界，或选择适合自己的交通界面与客户端设置。
 
 - [RongMC 客户端与实时导览](https://github.com/OpenRongMC/RongMC-Client/blob/main/README.md) · [下载](https://github.com/OpenRongMC/RongMC-Client/releases)
 - [RongMC 交通界面](https://github.com/OpenRongMC/RongMC-Transport-UI/blob/main/README.md) · [下载](https://github.com/OpenRongMC/RongMC-Transport-UI/releases)
@@ -42,6 +44,8 @@ OpenRongMC 维护 RongMC 建筑服使用的 Minecraft Java 模组、交通与城
 - [RongMC 旧版欢迎页](https://github.com/OpenRongMC/RongMC-Welcome/blob/main/README.md) · [下载](https://github.com/OpenRongMC/RongMC-Welcome/releases)
 
 ## 开发与测试
+
+交通扩展共用的创造栏筛选、平台映射和隔离测试工具。
 
 - [创造栏筛选 API](https://github.com/OpenRongMC/Filters-API/blob/main/README.md) · [下载](https://github.com/OpenRongMC/Filters-API/releases)
 - [MTR 平台映射与兼容层](https://github.com/OpenRongMC/Minecraft-Mappings/blob/main/README.md) · [下载](https://github.com/OpenRongMC/Minecraft-Mappings/releases)
